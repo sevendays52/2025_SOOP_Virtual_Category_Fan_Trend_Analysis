@@ -1,5 +1,15 @@
-# 2025년 SOOP 버튜버 팬 추이 분석
-# 2025 SOOP Virtual Category Fan Trend Analysis
+# 2025년 SOOP 버튜버 팬 추이 분석 (2025 SOOP Virtual Category Fan Trend Analysis)
+
+<div align="center">
+  <img src="https://i.namu.wiki/i/tth5Q5DzkHk5wYTkp0HLupOHuWOhMB3adWyrkXP5MytGbNbBhnCht5PD3050EKw6romQVfr8k1QleJzzTGKdGIJsQL8ivOnKhpJfC32_HgOoZZCj0q3g5LexBRl8eNY3dPWxEUc_5Uvsi0mnvmdfYw.svg" alt="SOOP Logo" width="400">
+  <br><br>
+  <h1>
+    <a href="https://sevendays5252.github.io/2025_SOOP_Virtual_Category_Fan_Trend_Analysis">
+      분석 사이트 보기
+    </a>
+  </h1>
+</div>
+
 
 ## 📊 프로젝트 개요
 
@@ -365,7 +375,7 @@
 
 **KIMHANJOO (김한주)**  
 대학생
-관심 분야: 버추얼 스트리밍 산업 데이터 기반 분석/기획획
+관심 분야: 버추얼 스트리밍 산업 데이터 기반 분석/기획
 
 ---
 
