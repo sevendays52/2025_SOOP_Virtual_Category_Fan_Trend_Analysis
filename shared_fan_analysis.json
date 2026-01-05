@@ -1,0 +1,175 @@
+{
+  "top_pairs": [
+    {
+      "streamer1": "hay****",
+      "streamer2": "nsa****",
+      "shared_fan_count": 11
+    },
+    {
+      "streamer1": "hay****",
+      "streamer2": "uni****",
+      "shared_fan_count": 11
+    },
+    {
+      "streamer1": "eze****",
+      "streamer2": "vly****",
+      "shared_fan_count": 10
+    },
+    {
+      "streamer1": "nsa****",
+      "streamer2": "uni****",
+      "shared_fan_count": 9
+    },
+    {
+      "streamer1": "har****",
+      "streamer2": "slv****",
+      "shared_fan_count": 7
+    },
+    {
+      "streamer1": "iru****",
+      "streamer2": "kky****",
+      "shared_fan_count": 6
+    },
+    {
+      "streamer1": "eze****",
+      "streamer2": "nan****",
+      "shared_fan_count": 6
+    },
+    {
+      "streamer1": "fox****",
+      "streamer2": "lig****",
+      "shared_fan_count": 6
+    },
+    {
+      "streamer1": "dud****",
+      "streamer2": "hik****",
+      "shared_fan_count": 6
+    },
+    {
+      "streamer1": "kpu****",
+      "streamer2": "lom****",
+      "shared_fan_count": 6
+    },
+    {
+      "streamer1": "khj****",
+      "streamer2": "neu****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "chi****",
+      "streamer2": "lom****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "nna****",
+      "streamer2": "slv****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "jia****",
+      "streamer2": "rui****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "bur****",
+      "streamer2": "dal****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "ldr****",
+      "streamer2": "mal****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "ldr****",
+      "streamer2": "tsu****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "mal****",
+      "streamer2": "tsu****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "fox****",
+      "streamer2": "woo****",
+      "shared_fan_count": 5
+    },
+    {
+      "streamer1": "dpt****",
+      "streamer2": "neu****",
+      "shared_fan_count": 5
+    }
+  ],
+  "clusters": [
+    {
+      "size": 5,
+      "streamers": [
+        "ear****",
+        "htv****",
+        "ldr****",
+        "mal****",
+        "tsu****"
+      ]
+    },
+    {
+      "size": 4,
+      "streamers": [
+        "chi****",
+        "kpu****",
+        "lom****",
+        "woo****"
+      ]
+    },
+    {
+      "size": 3,
+      "streamers": [
+        "dpt****",
+        "khj****",
+        "neu****"
+      ]
+    },
+    {
+      "size": 3,
+      "streamers": [
+        "eze****",
+        "nan****",
+        "vly****"
+      ]
+    },
+    {
+      "size": 3,
+      "streamers": [
+        "har****",
+        "nna****",
+        "slv****"
+      ]
+    }
+  ],
+  "top_triples": [
+    {
+      "streamers": [
+        "hay****",
+        "nsa****",
+        "uni****"
+      ],
+      "total_shared": 31
+    },
+    {
+      "streamers": [
+        "chi****",
+        "lom****",
+        "kpu****"
+      ],
+      "total_shared": 16
+    },
+    {
+      "streamers": [
+        "ldr****",
+        "mal****",
+        "tsu****"
+      ],
+      "total_shared": 15
+    }
+  ]
+}
