@@ -1,7 +1,7 @@
 # 2025년 SOOP 버튜버 팬 추이 분석 (2025 SOOP Virtual Category Fan Trend Analysis)
 
 <div align="center">
-  <img src="https://i.namu.wiki/i/tth5Q5DzkHk5wYTkp0HLupOHuWOhMB3adWyrkXP5MytGbNbBhnCht5PD3050EKw6romQVfr8k1QleJzzTGKdGIJsQL8ivOnKhpJfC32_HgOoZZCj0q3g5LexBRl8eNY3dPWxEUc_5Uvsi0mnvmdfYw.svg" alt="SOOP Logo" width="400">
+ <img width="1000" height="400" alt="soop_logo_테두리" src="https://github.com/user-attachments/assets/a518cf97-2922-4a69-aa93-9683e125f759" />
   <br><br>
   <h1>
     <a href="https://sevendays52.github.io/2025_SOOP_Virtual_Category_Fan_Trend_Analysis/">
