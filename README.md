@@ -374,6 +374,10 @@
 ## 📧 연락처
 
 **KIMHANJOO (김한주)**  
+<a href="mailto:sevendays5252@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 대학생
 관심 분야: 버추얼 스트리밍 산업 데이터 기반 분석/기획
 
